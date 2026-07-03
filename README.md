@@ -7,25 +7,49 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=2200&pause=500&color=8B949E&center=true&vCenter=true&width=800&lines=Java+%E2%80%A2+Python+%E2%80%A2+Full+Stack+Development;Artificial+Intelligence+%E2%80%A2+System+Design;Backend+Engineering+%E2%80%A2+Building+Products" alt="Typing SVG" />
 
 </div>
+<div align="center">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table>
 <tr>
-<td width="100%">
+
+<td valign="top">
 
 ## `~/about`
 
-```
+```text
 Computer Science Engineering student focused on building
 scalable, production-grade applications.
 
 Interested in backend systems, full stack engineering,
-system design, always learning modern
+system design, and applied AI — always learning modern
 tools and continuously refining engineering craft.
 ```
 
 </td>
+
+<td width="40"></td>
+
+<td valign="top">
+
+## `~/mindset`
+
+```text
+Build things that solve real problems.
+
+Learn deeply.
+Compete honestly.
+Stay curious.
+Keep improving.
+
+One version better than yesterday.
+```
+
+</td>
+
 </tr>
 </table>
+
+</div>
 
 <br/>
 
