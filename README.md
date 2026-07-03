@@ -7,13 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=2200&pause=500&color=8B949E&center=true&vCenter=true&width=800&lines=Java+%E2%80%A2+Python+%E2%80%A2+Full+Stack+Development;Artificial+Intelligence+%E2%80%A2+System+Design;Backend+Engineering+%E2%80%A2+Building+Products" alt="Typing SVG" />
 
 </div>
-<div align="center">
-
-<table>
-<tr>
-
-<td valign="top">
-
 ## `~/about`
 
 ```text
@@ -25,31 +18,18 @@ system design, and applied AI — always learning modern
 tools and continuously refining engineering craft.
 ```
 
-</td>
-
-<td width="40"></td>
-
-<td valign="top">
+<br/>
 
 ## `~/mindset`
 
-```text
-Build things that solve real problems.
+```bash
+$ build --real-problems
+$ learn --deeply
+$ stay --curious
+$ improve --daily
 
-Learn deeply.
-Compete honestly.
-Stay curious.
-Keep improving.
-
-One version better than yesterday.
+✓ One version better than yesterday.
 ```
-
-</td>
-
-</tr>
-</table>
-
-</div>
 
 <br/>
 
