@@ -7,6 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=2200&pause=500&color=8B949E&center=true&vCenter=true&width=800&lines=Java+%E2%80%A2+Python+%E2%80%A2+Full+Stack+Development;Artificial+Intelligence+%E2%80%A2+System+Design;Backend+Engineering+%E2%80%A2+Building+Products" alt="Typing SVG" />
 
 </div>
+
 ## `~/about`
 
 ```text
