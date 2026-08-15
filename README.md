@@ -112,7 +112,7 @@ $ improve --daily
 
 <div align="center">
 
- <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rumanajaha&show_icons=true&theme=dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rumanajaha&show_icons=true&theme=dark&hide_border=true"/>
 
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rumanajaha&layout=compact&theme=dark&hide_border=true"/>
 
