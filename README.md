@@ -112,13 +112,13 @@ $ improve --daily
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rumanajaha&show_icons=true&theme=dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rumanajaha&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117"/>
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rumanajaha&layout=compact&theme=dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumanajaha&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"/>
 
 <img src="https://streak-stats.demolab.com?user=rumanajaha&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=E6EDF3&sideLabels=8B949E&dates=8B949E" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rumanajaha&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=E6EDF3&hide_border=true" />
+<img width="100%" src="https://ghchart.rshah.org/58A6FF/rumanajaha" alt="Contribution graph" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
